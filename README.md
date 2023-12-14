@@ -6,6 +6,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 
 ## Installation
 
-'''
+```
 git clone https://github.com/uluserkan/kodluyoruzilkrepo.git
-'''
+```
